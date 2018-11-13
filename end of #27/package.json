@@ -1,0 +1,27 @@
+{
+  "name": "apollo",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apollo-client": "^2.0.4",
+    "apollo-client-preset": "^1.0.5",
+    "babel-runtime": "^6.26.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.2",
+    "graphql": "^14.0.2",
+    "graphql-server-express": "^1.4.0",
+    "graphql-tag": "^2.10.0",
+    "graphql-tools": "^4.0.3",
+    "lodash": "^4.17.11",
+    "meteor-node-stubs": "^0.4.1",
+    "react": "^16.2.0",
+    "react-apollo": "^2.0.4",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-inline-import": "^3.0.0"
+  }
+}
